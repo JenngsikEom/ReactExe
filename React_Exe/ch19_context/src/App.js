@@ -1,9 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import MiniBlogApp from "./ex07_comment_list/MiniBlogApp";
+import MainApp from "./ex06_provider/MainApp";
 
 function App() {
-  return <MiniBlogApp />;
+  return <MainApp />;
 }
 
 export default App;
